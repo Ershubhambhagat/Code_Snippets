@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://github.com/Ershubhambhagat?tab=repositories",
+        "buttonText": "Github",
+        "description": "repositories || Repo"
+    },
+ {
+        "url": "https://github.com/Ershubhambhagat/Code_Snippets",
+        "buttonText": "Code_Snippets",
+        "description": "Code_Snippets || Repo"
+    },
+ {
+        "url": "https://github.com/Ershubhambhagat/Code_Snippets/new/main",
+        "buttonText": "main",
+        "description": "Code_Snippets || Repo"
+    }
+]
